@@ -6,5 +6,5 @@ setup(name='rouge',
       url="https://github.com/matan/googles_rouge",
       author='Matan Eyal',
       author_email='mataneyal1@gmail.com',
-      packages=[],
+      packages=['rouge'],
       zip_safe=False)
